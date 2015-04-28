@@ -1,5 +1,7 @@
 require 'faker'
  
+ Post.create(title: "eg_idempotence", body: "example")
+ Comment.create(post: posts.1, body: "hello again")
  # Create Posts
  50.times do
    Post.create!(
