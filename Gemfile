@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'figaro', '1.0'
 gem 'devise'
 gem 'faker'
 gem 'pry-rails', :group => :development
