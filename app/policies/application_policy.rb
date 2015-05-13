@@ -52,5 +52,3 @@ class ApplicationPolicy
   end
 end
 
-class PostPolicy < ApplicationPolicy
-  end
