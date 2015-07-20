@@ -1,8 +1,11 @@
 source 'https://rubygems.org'
 
+<<<<<<< HEAD
 gem 'fog'
 gem 'carrierwave'
 gem 'mini_magick'
+=======
+>>>>>>> post-markdown
 gem 'redcarpet'
 gem 'pundit'
 gem 'figaro', '1.0'
